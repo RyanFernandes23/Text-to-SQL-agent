@@ -62,7 +62,7 @@ A LangGraph-based agent converts natural language queries to SQL using Groq's Ll
 ---
 
 ### **Architecture**  
-![Architecture Diagram](agents/langgraph.png)
+![image alt](https://github.com/RyanFernandes23/Text-to-SQL-agent/blob/main/langgraph.png?raw=true)
 
 ---
 
